@@ -1,0 +1,1 @@
+Comparing some blackjack strategies, do `pip install -r requirements.txt` and then `python game.py` to run.
